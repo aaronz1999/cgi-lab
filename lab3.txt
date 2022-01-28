@@ -1,0 +1,8 @@
+1. you can get environment variables using os.environ
+2. QUERY_STRING
+3. HTTP_USER_AGENT
+4. through cgi.FieldStorage()
+5. Set-Cookie: Key = Value
+6. Cookie: Key = Value
+7. Cookies stores and allows retrieval for what is assigned by the user
+8. https://github.com/aaronz1999/cgi-lab 
